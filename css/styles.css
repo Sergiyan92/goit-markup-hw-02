@@ -74,6 +74,7 @@ body {
     line-height: 1.17;   
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #2E2F42;
 }
 .accent {
     font-family: 'Raleway', sans-serif;   
@@ -88,6 +89,7 @@ body {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 .menu-link:active,
 .menu-link:hover,
